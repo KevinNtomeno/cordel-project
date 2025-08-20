@@ -42,7 +42,7 @@
         .estrofe2{
             padding-top: 160px ;
             padding-bottom: 160px;
-            background-image: url('../imagens/background0012.jpg');
+            background-image: url('../imagens/background0012.webp');
             background-repeat: no-repeat;
             background-size: cover;
             background-position: center center;
@@ -64,7 +64,7 @@
         }
 
         .estrofe4{
-            background-image: url('../imagens/background0022.jpg');
+            background-image: url('../imagens/background0022.webp');
             background-position: center center;
             background-size: cover;
             background-attachment: fixed;
